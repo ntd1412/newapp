@@ -50,6 +50,7 @@ class MyHomePage extends StatelessWidget {
               color: Colors.purple,
               fontSize: 36,
               fontWeight: FontWeight.bold,
+              fontFamily: "Inter"
             ),
           ),
           Text(
