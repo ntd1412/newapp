@@ -30,6 +30,7 @@ flutter:
     - assets/icons/
     - assets/images/
     - assets/cinema/
+    - assets/instagram/
   fonts:
      - family: Inter
        fonts:
@@ -50,3 +51,6 @@ flutter:
            style: normal
          - asset: assets/fonts/Raleway-Medium.ttf
            style: italic
+     - family: Billabong
+       fonts:
+         - asset: assets/fonts/Billabong.ttf
